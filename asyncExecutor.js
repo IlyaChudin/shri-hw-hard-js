@@ -55,4 +55,4 @@ asyncExecutor(function* () {
   }
 
   console.timeEnd("Time1");
-}).then(console.log);
+});
